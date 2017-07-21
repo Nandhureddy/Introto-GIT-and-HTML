@@ -1,0 +1,18 @@
+<!DOCUMENT HTML>
+<head>
+<title>saikrishna</title>
+</head>
+<html>
+<body>
+
+<h1>git operations</h1>
+
+<p1>git add</p1>
+<br>
+<p2>git commit -m 'message'</p2>
+<br>
+<p3>git push</p3>
+<br>
+
+</body>
+</html>

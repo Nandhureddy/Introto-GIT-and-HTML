@@ -1,3 +1,6 @@
+git config --global user.name "YOUR NAME"
+git config --global user.email "YOUR EMAIL ADRESS"
+
 git add: it is used to add a file to the repository.
 
 git clone: it is used to make any changes to the exixting files
@@ -5,3 +8,5 @@ git clone: it is used to make any changes to the exixting files
 git push: used to push the file in to the remote
 
 git pull:used to pull the file from remote
+
+

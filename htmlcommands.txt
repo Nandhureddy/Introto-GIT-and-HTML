@@ -1,0 +1,31 @@
+<html> ..... </html>  :marks the opening and closing of HTML document
+
+<head> ..... </head>  :creates the head of the HTML document
+
+<body> ..... </body>  :creates the body of HTML document
+
+<title> .... </title> :it is the title that appears on the title bar of window
+
+<code> ....  </code>  :code is written here
+
+<var> .... </var>: variables are placed here
+
+<h1>....</h1>,<h2>....</h2>,.......,<h6>....</h6>  :for headings
+
+<p1>....<p2>   : for paragraphs
+
+<table> .... </table>  : table will be created.
+
+<caption> .... </table> :caption for the table
+
+<tr> ... </tr>  : creates a table row
+
+<image>  .... <image> : loads an online image
+
+<form> .... </form>  : creates a form
+
+<p>  : paragraph break
+
+<br>  : line break
+
+<hr> : draws a horizontal line

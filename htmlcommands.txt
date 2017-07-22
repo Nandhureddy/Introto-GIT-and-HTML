@@ -6,10 +6,6 @@
 
 <title> .... </title> :it is the title that appears on the title bar of window
 
-<code> ....  </code>  :code is written here
-
-<var> .... </var>: variables are placed here
-
 <h1>....</h1>,<h2>....</h2>,.......,<h6>....</h6>  :for headings
 
 <p1>....<p2>   : for paragraphs
